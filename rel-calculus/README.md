@@ -14,7 +14,7 @@ sample data can be found in the file `students.sql` contained in this
 folder -- please, take a look at the data to make sure you understand
 the meaning of the fields in the tables.
 
-Write tuple relational calculus queries the produce the following
+Write tuple relational calculus queries producing the following
 results:
 
 1. The names of all juniors who are enrolled in a class taught by
