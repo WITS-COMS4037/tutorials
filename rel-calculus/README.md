@@ -23,8 +23,8 @@ Ivana Teach.
 2. The names of all classes that meet in room R128 and are taught by
 Ivana Teach.
 
-3. The ages the students who either are History majors or are enrolled
- in a class taught by Ivana Teach.
+3. The ages of the students who either are History majors or are
+ enrolled in a class taught by Ivana Teach.
 
 4. The names of all students who are enrolled in two classes that meet
 at the same time.
@@ -32,6 +32,7 @@ at the same time.
 5. The names of faculty members who teach in every room in which some
 class is taught.
 
-6. The names of faculty members who teache classes only in room R128.
+6. The names of faculty members who teach classes only in room R128.
 
 7. The names of students not enrolled in any class.
+
