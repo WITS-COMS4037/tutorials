@@ -17,21 +17,21 @@ the meaning of the fields in the tables.
 Write tuple relational calculus queries the produce the following
 results:
 
-l. The names of all juniors who are enrolled in a class taught by
+1. The names of all juniors who are enrolled in a class taught by
 Ivana Teach.
 
-l. The names of all classes that meet in room R128 and are taught by
+2. The names of all classes that meet in room R128 and are taught by
 Ivana Teach.
 
-l. The ages the students who either are History majors or are enrolled
+3. The ages the students who either are History majors or are enrolled
  in a class taught by Ivana Teach.
 
-l. The names of all students who are enrolled in two classes that meet
+4. The names of all students who are enrolled in two classes that meet
 at the same time.
 
-l. The names of faculty members who teach in every room in which some
+5. The names of faculty members who teach in every room in which some
 class is taught.
 
-l. The names of faculty members who teache classes only in room R128.
+6. The names of faculty members who teache classes only in room R128.
 
-l. The names of students not enrolled in any class.
+7. The names of students not enrolled in any class.
