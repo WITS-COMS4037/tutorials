@@ -1,4 +1,4 @@
-# Exercise set 2 -- SQL I
+# Tutorial assignment 2: SQL
 
 **This set is meant to help you get acquainted with the basics
 of the SQL language**

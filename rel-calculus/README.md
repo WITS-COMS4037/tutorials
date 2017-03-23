@@ -1,4 +1,4 @@
-# Tutorial assignment: Tuple-Relational Calculus
+# Tutorial assignment 1: Tuple-Relational Calculus
 
 Consider a database with the following schema:
 
