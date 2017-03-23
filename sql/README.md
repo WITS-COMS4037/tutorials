@@ -1,6 +1,6 @@
 # Tutorial assignment 2: SQL
 
-**This set is meant to help you get acquainted with the basics
+**This tutorial is meant to help you get acquainted with the basics
 of the SQL language**
 
 1. Exercise 5.1 from R&G.  The file `students.sql` contains a script
